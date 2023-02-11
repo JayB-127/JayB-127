@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I'm Jacob.
+## 📝 First Year BSc Computer Science with Industrial Experience
+## 🏫 University of Exeter
+## 💻 Preferred languages are Java and Python
 
 <!--
 **JayB-127/JayB-127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
