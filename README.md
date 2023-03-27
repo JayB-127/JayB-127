@@ -2,4 +2,4 @@
 
 - 📝 First Year, BSc Computer Science with Industrial Experience
 - 🏫 University of Exeter
-- 💻 Preferred languages are Java and Python
+- 💻 Preferred languages is Java, but competent with more!
