@@ -2,5 +2,5 @@
 
 - 📝 Second Year, BSc Computer Science with Industrial Experience
 - 🏫 University of Exeter
-- 💻 Worked with Java, Python, C++, VB, Javascript, PHP
+- 💻 Languages include Java, C++, Python
 - 🖊 Currently working with Haskell and Prolog
