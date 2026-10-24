@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Jacob.
 
-- 📝 Final Year, BSc Computer Science with Industrial Experience
-- 🏢 Previous Data Engineer at the Met Office
-- 🏫 University of Exeter
+- 🚁 Data Engineer at Leonardo Helicopters
+- ⛅ Former Data Engineer at the Met Office
+- 🎓 1st Class with Honours - BSc Computer Science with Industrial Experience (University of Exeter)
+- ✏️ Currently learning Rust
